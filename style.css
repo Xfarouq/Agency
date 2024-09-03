@@ -29,7 +29,7 @@ footer{
     text-align: right;
     color: midnightblue;
 }
-@media (max-width:680px){
+@media (max-width:681px){
     .logo{
         width: 100px;
     }
